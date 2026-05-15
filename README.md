@@ -4,7 +4,7 @@ Offline AI-powered maternal healthcare assistant built using Flutter, Gemma, and
 
 ## Live Demo
 
-🌐 Web App: https://your-deployed-link.vercel.app
+🌐 Web App: https://admirable-beignet-1e4659.netlify.app
 
 📱 APK Download: https://github.com/saksham-eng560/Gemma-4-AI-Maternal_Health_App/releases/tag/v1.0
 
