@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+transformers
+torch
+accelerate
+sentencepiece
+python-multipart
+pillow
+opencv-python
+faster-whisper
+gtts
+pygame
+reportlab
+pydantic
+numpy
+scipy
